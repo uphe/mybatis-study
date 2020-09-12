@@ -9,10 +9,12 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>mybatis-01</module>
-        <module>mybatis-02</module>
-        <module>mybatis-03</module>
-        <module>mybatis-04</module>
+        <module>mybatis-01-入门</module>
+        <module>mybatis-02-别名配置</module>
+        <module>mybatis-03-多参数查询</module>
+        <module>mybatis-04-分页查询</module>
+        <module>mybatis-05-一对一</module>
+        <module>mybatis-06-一对多</module>
     </modules>
 
 
